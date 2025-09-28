@@ -1,0 +1,22 @@
+/* Design Token */
+
+:root {
+  /* colors */
+  --color-text-contrast: #ebd16d;
+  --color-text-primary: #f0f0f0;
+  --color-text-secondary: #d2d2d2;
+
+  /* Background */
+  --color-background: #242424;
+
+  /* Gradient */
+  --gradient-primary: linear-gradient(
+    90deg,
+    rgb(48, 54, 92) 0%,
+    rgb(35, 65, 85) 100%
+  );
+
+  /* Fonts */
+  --font-size-hero: 5.625rem;
+  --font-size-title: 5rem;
+}
