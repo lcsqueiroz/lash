@@ -12,8 +12,8 @@
   /* Gradient */
   --gradient-primary: linear-gradient(
     90deg,
-    rgb(48, 54, 92) 0%,
-    rgb(35, 65, 85) 100%
+    rgb(235, 209, 109) 0%,
+    rgb(216, 157, 75) 100%
   );
 
   /* Fonts */
