@@ -1,0 +1,19 @@
+.button {
+  position: relative;
+  padding: 15px 30px;
+  background: var(--color-background);
+  border-radius: 3px;
+}
+.button::before {
+  content: "";
+  position: absolute;
+  inset: -1.5px;
+  z-index: -1;
+  background: var(--gradient-primary);
+  border-radius: 3px;
+}
+.text-gradient {
+  background-image: var(--gradient-primary);
+  color: transparent;
+  background-clip: text;
+}
