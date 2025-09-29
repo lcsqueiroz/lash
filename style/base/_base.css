@@ -24,4 +24,7 @@ h5,
 h6 {
   font-family: "Luxia";
   font-weight: 400;
+  background-image: var(--gradient-primary);
+  color: transparent;
+  background-clip: text;
 }
