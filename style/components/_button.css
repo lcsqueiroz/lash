@@ -3,6 +3,7 @@
   padding: 15px 30px;
   background: var(--color-background);
   border-radius: 3px;
+  display: inline-block;
 }
 .button::before {
   content: "";
