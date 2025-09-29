@@ -12,6 +12,16 @@ body {
   font-family: "Poppins";
   font-size: var(--font-size-md);
   text-decoration: none;
-  color: var(--gradient-primary);
+  color: var(--color-text-primary);
   background-color: var(--color-background);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Luxia";
+  font-weight: 400;
 }
