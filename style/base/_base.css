@@ -1,8 +1,8 @@
 /* regular - 400 */
 @font-face {
   font-family: "Luxia";
-  src: url(/font/Luxia-Display.otf) format(otf),
-    url(/font/Luxia-Regular.otf) format(otf);
+  src: url("/font/Luxia-Display.otf") format("otf"),
+    url("/font/Luxia-Regular.otf") format("otf");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
