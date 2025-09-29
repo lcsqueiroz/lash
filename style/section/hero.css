@@ -1,0 +1,28 @@
+.hero-section {
+  padding-top: 50px;
+}
+
+.hero-section h1 {
+  font-size: 80px;
+  padding: 10px 0px;
+  line-height: 0.9;
+}
+.hero-section p {
+  font-size: 20px;
+  line-height: 1.5;
+  padding: 10px 0px;
+  max-width: 60ch;
+}
+.hero-section span {
+  font-size: 14px;
+  padding: 10px 0px;
+}
+
+.buttons-hero {
+  margin: 50px 0px;
+}
+.buttons-hero {
+  display: flex;
+  place-self: start;
+  gap: 50px;
+}
