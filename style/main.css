@@ -7,6 +7,7 @@
 @import url(layout/_grid.css);
 
 @import url(components/_button.css);
+@import url(components/_cards.css);
 
 @import url(section/hero.css);
 @import url(section/sobre.css);
