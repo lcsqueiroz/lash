@@ -1,5 +1,7 @@
 .sobre-section {
   padding-top: 50px;
+  gap: 20px;
+  place-self: center;
 }
 
 .content {
@@ -14,7 +16,7 @@
   line-height: 0.9;
 }
 .sobre-section p {
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1.85;
   padding: 10px 0px;
   max-width: 60ch;
@@ -37,11 +39,11 @@
 .especializacao li {
   list-style-type: disc;
   margin-left: 50px;
-  font-size: 18px;
+  font-size: 14px;
 }
 .especializacao span {
   background-image: var(--gradient-primary);
   color: transparent;
   background-clip: text;
-  font-size: 20px;
+  font-size: 18px;
 }
