@@ -1,0 +1,47 @@
+.sobre-section {
+  padding-top: 50px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.sobre-section h2 {
+  font-size: 80px;
+  padding: 10px 0px;
+  line-height: 0.9;
+}
+.sobre-section p {
+  font-size: 20px;
+  line-height: 1.85;
+  padding: 10px 0px;
+  max-width: 60ch;
+}
+/* Estilizando Especialização */
+
+/* Depois vou criar um padrão em todo código, inicialmente apenas estilização sem seguir o padrão de variáveis */
+
+.especializacao {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.especializacao ul {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  gap: 10px;
+}
+.especializacao li {
+  list-style-type: disc;
+  margin-left: 50px;
+  font-size: 18px;
+}
+.especializacao span {
+  background-image: var(--gradient-primary);
+  color: transparent;
+  background-clip: text;
+  font-size: 20px;
+}

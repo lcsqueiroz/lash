@@ -6,10 +6,10 @@
   padding: 10px 0px;
 }
 
-ul {
+.ul-header {
   display: flex;
   gap: 50px;
 }
-li a:hover {
+.ul-header a:hover {
   color: var(--color-text-contrast);
 }
