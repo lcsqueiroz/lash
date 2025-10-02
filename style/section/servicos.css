@@ -1,0 +1,26 @@
+.servicos {
+  padding-top: 100px;
+  display: flex;
+  flex-direction: column;
+  place-self: center;
+  text-align: center;
+}
+
+.container-title-servicos {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+/* estilizando título e corpo de texto */
+
+.title-servicos {
+  font-size: 80px;
+  padding: 10px 0px;
+  line-height: 0.9;
+}
+.subtitle-servicos {
+  font-size: 16px;
+  line-height: 1.85;
+  padding: 10px 0px;
+  max-width: 60ch;
+}
