@@ -29,3 +29,18 @@
   font-size: 18px;
   font-weight: 500;
 }
+
+/* CARDS DE SERVIÇOS */
+
+.cards-servicos {
+  gap: 20px;
+}
+.card-servicos {
+  margin-top: 77px;
+  border-radius: 10px;
+}
+.card-servicos {
+  width: 400px;
+  height: 700px;
+  border: 1px solid var(--color-text-contrast);
+}
